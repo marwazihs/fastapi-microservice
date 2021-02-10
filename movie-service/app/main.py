@@ -6,7 +6,8 @@ from app.api.models import User
 
 metadata.create_all(engine)
 
-app = FastAPI()
+# app = FastAPI()
+app = FastAPI(openapi_url="/api/v1/movies/openapi.json", docs_url="/api/v1/movies/docs")
 
 @app.on_event("startup")
 async def startup():
