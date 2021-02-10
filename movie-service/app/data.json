@@ -1,0 +1,36 @@
+{
+  "name": "ayam kampung negeri seberang",
+  "plot": "kisah anak ayam yang datang dari seberang ",
+  "genres": [
+    "dokumenter"
+  ],
+  "casts": [
+    "si ayam","ibu si ayam"
+  ]
+}
+
+
+{
+    "name": "bukan sembarangan ini mah",
+    "plot": "kisah anak ayam yang datang dari seberang ",
+    "genres": [
+      "dokumenter"
+    ],
+    "casts": [
+      "si ayam","ibu si ayam"
+    ]
+  }
+
+
+  {
+    "name": "bukan sembarangan ini mah",
+    "plot": "kisah anak ayam yang datang dari seberang "
+}
+
+{
+    "username": "marwazihs",
+    "email": "marwazihs@gmail.com",
+    "fullname": "Marwazi Siagian",
+    "disabled": false,
+    "password": "iil"
+  }
